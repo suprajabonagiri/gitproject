@@ -1,0 +1,26 @@
+{
+    "cards":[{
+        "img":"images/appleiphone.jpg",
+        "name":"apple I phone",
+        "rate":"30000",
+        "offer":"15000",
+        "button":"view"
+    },
+{
+    "img":"images/redme.jpg",
+    "name":"redme phone",
+    "rate":"20000",
+    "offer":"10000",
+    "button":"view" 
+},
+{
+    "img":"images/samsung.jpg",
+    "name":"samsung",
+    "rate":"20000",
+    "offer":"8000",
+    "button":"view"
+}
+
+
+]
+} 
